@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RgatuDownloader", "RgatuDownloader.csproj", "{89885EC6-2403-4A55-85F6-DB1D48E4607C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89885EC6-2403-4A55-85F6-DB1D48E4607C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89885EC6-2403-4A55-85F6-DB1D48E4607C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89885EC6-2403-4A55-85F6-DB1D48E4607C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89885EC6-2403-4A55-85F6-DB1D48E4607C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47E554A-9A8C-498D-A981-198F6AF69974}
+	EndGlobalSection
+EndGlobal
